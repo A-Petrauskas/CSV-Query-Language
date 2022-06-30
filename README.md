@@ -132,8 +132,8 @@ by the evaluator in a csv format.
 ![image-007](https://user-images.githubusercontent.com/72355656/168534441-1224ac4f-306d-4e97-8888-b7fd7f7c454f.png)
 
 ## Example programs
-![image-013](https://user-images.githubusercontent.com/72355656/168534301-a0eaf191-69f3-4922-86b5-0df34a0e5637.png)
-![image-012](https://user-images.githubusercontent.com/72355656/168534325-4271dc80-161f-45c8-9134-a4d98fc4939b.png)
+<img src="https://user-images.githubusercontent.com/72355656/168534301-a0eaf191-69f3-4922-86b5-0df34a0e5637.png" width="570">
+<img src="https://user-images.githubusercontent.com/72355656/168534325-4271dc80-161f-45c8-9134-a4d98fc4939b.png" width="350">
 
 ## Execuction Model Figure
-![image-025](https://user-images.githubusercontent.com/72355656/168534953-b2b28eb0-3331-4d18-8a87-2726fef53f27.png)
+<img src="https://user-images.githubusercontent.com/72355656/168534953-b2b28eb0-3331-4d18-8a87-2726fef53f27.png" width="400">
